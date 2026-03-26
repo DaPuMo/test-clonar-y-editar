@@ -1,6 +1,6 @@
 # test-clonar-y-editar
 
-## Mi Primera Edición de Prueba
+# TÍTULO SUPER ÉPICO ALTERNATIVO
 
 Estoy siguiendo el tutorial para entender cómo clonar, editar y subir cambios a GitHub. 
 
